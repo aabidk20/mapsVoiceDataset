@@ -1,0 +1,899 @@
+Hide	B-negation
+the	O
+traffic	B-layer
+layer	O
+.	O
+
+Display	O
+the	O
+weather	B-layer
+overlay	O
+.	O
+
+Turn	O
+on	O
+the	O
+street	B-layer
+map	O
+layer	O
+.	O
+
+Remove	B-negation
+the	O
+vegetation	B-layer
+index	O
+.	O
+
+Go	B-goTo
+to	O
+the	O
+area	O
+near	O
+the	O
+Golden	B-location
+Gate	I-location
+Bridge	I-location
+.	O
+
+Show	B-goTo
+me	O
+places	O
+around	O
+Central	B-location
+Park	I-location
+.	O
+
+Navigate	B-goTo
+to	O
+the	O
+vicinity	O
+of	O
+the	O
+Eiffel	B-location
+Tower	I-location
+.	O
+
+Can	O
+you	O
+move	B-goTo
+the	O
+map	O
+to	O
+the	O
+region	O
+near	O
+Times	B-location
+Square	I-location
+?	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+around	O
+the	O
+Colosseum	B-location
+.	O
+
+Find	B-goTo
+the	O
+location	O
+near	O
+Buckingham	B-location
+Palace	I-location
+.	O
+
+Move	B-goTo
+the	O
+view	O
+to	O
+the	O
+surroundings	O
+of	O
+the	O
+Sydney	B-location
+Opera	I-location
+House	I-location
+.	O
+
+Show	O
+the	O
+map	O
+around	B-goTo
+the	O
+Taj	B-location
+Mahal	I-location
+.	O
+
+Pan	O
+the	O
+view	O
+to	O
+the	O
+left	B-panLeft
+.	O
+
+Shift	O
+the	O
+map	O
+leftwards	B-panLeft
+.	O
+
+Move	O
+the	O
+display	O
+left	B-panLeft
+.	O
+
+Slide	O
+the	O
+screen	O
+to	O
+the	O
+left	B-panLeft
+side	O
+.	O
+
+Pan	0
+the	O
+map	O
+towards	O
+the	O
+west	B-panLeft
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+view	O
+left	B-panLeft
+?	O
+
+Shift	O
+the	O
+display	O
+left	B-panLeft
+.	O
+
+Move	O
+the	O
+map	O
+towards	O
+the	O
+left	B-panLeft
+.	O
+
+Slide	O
+the	O
+map	O
+left	B-panLeft
+.	O
+
+Shift	O
+view	O
+to	O
+the	O
+left	B-panLeft
+.	O
+
+Shift	O
+the	O
+display	O
+to	O
+the	O
+left	B-panLeft
+side	O
+.	O
+
+Slide	O
+the	O
+map	O
+view	O
+left	B-panLeft
+.	O
+
+Pan	O
+the	O
+view	O
+to	O
+the	O
+right	B-panRight
+.	O
+
+Shift	O
+the	O
+map	O
+rightwards	B-panRight
+.	O
+
+Move	O
+the	O
+display	O
+right	B-panRight
+.	O
+
+Slide	O
+the	O
+screen	O
+to	O
+the	O
+right	B-panRight
+side	O
+.	O
+
+Pan	0
+the	O
+map	O
+towards	O
+the	O
+east	B-panRight
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+view	O
+right	B-panRight
+?	O
+
+Shift	O
+the	O
+display	O
+right	B-panRight
+.	O
+
+Move	O
+the	O
+map	O
+towards	O
+the	O
+right	B-panRight
+.	O
+
+Slide	O
+the	O
+map	O
+right	B-panRight
+.	O
+
+Shift	O
+view	O
+to	O
+the	O
+right	B-panRight
+.	O
+
+Shift	O
+the	O
+display	O
+to	O
+the	O
+right	B-panRight
+side	O
+.	O
+
+Slide	O
+the	O
+map	O
+view	O
+right	B-panRight
+.	O
+
+Pan	O
+the	O
+view	O
+upwards	B-panUp
+.	O
+
+Shift	O
+the	O
+map	O
+up	B-panUp
+.	O
+
+Move	O
+the	O
+display	O
+higher	B-panUp
+.	O
+
+Slide	O
+the	O
+screen	O
+up	B-panUp
+.	O
+
+Pan	O
+the	O
+map	O
+towards	O
+the	O
+north	B-panUp
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+view	O
+up	B-panUp
+?	O
+
+Shift	O
+the	O
+display	O
+up	B-panUp
+.	O
+
+Move	O
+the	O
+map	O
+upwards	B-panUp
+.	O
+
+Slide	O
+the	O
+map	O
+up	B-panUp
+.	O
+
+Shift	O
+view	O
+upwards	B-panUp
+.	O
+
+Move	O
+the	O
+view	O
+upwards	B-panUp
+.	O
+
+Shift	O
+the	O
+display	O
+to	O
+a	O
+higher	B-panUp
+position	O
+.	O
+
+Pan	B-panDown
+the	O
+view	O
+downwards	O
+.	O
+
+Shift	O
+the	O
+map	O
+down	B-panDown
+.	O
+
+Move	O
+the	O
+display	O
+lower	B-panDown
+.	O
+
+Slide	O
+the	O
+screen	O
+down	B-panDown
+.	O
+
+Pan	B-panDown
+the	O
+map	O
+towards	O
+the	O
+south	O
+.	O
+
+
+===============================================
+
+Can	O
+you	O
+move	O
+the	O
+view	O
+down	B-panDown
+?	O
+
+Shift	O
+the	O
+display	O
+down	B-panDown
+.	O
+
+Move	O
+the	O
+map	O
+downwards	B-panDown
+.	O
+
+Slide	O
+the	O
+map	O
+down	B-panDown
+.	O
+
+Shift	O
+view	O
+downwards	B-panDown
+.	O
+
+Move	O
+the	O
+view	O
+downwards	B-panDown
+.	O
+
+Shift	O
+the	O
+display	O
+to	O
+a	O
+lower	B-panDown
+position	O
+.	O
+
+Zoom	B-zoomIn
+into	I-zoomIn
+the	O
+map	O
+.	O
+
+Increase	B-zoomIn
+the	O
+map	O
+magnification	O
+.	O
+
+Enlarge	B-zoomIn
+the	O
+map	O
+view	O
+.	O
+
+Zoom	B-zoomIn
+closer	B-goTo
+to	O
+the	O
+location    O
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+the	O
+details	O
+.	O
+
+Can	O
+you	O
+magnify	B-zoomIn
+the	O
+map	O
+?	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+to	O
+get	O
+a	O
+closer	O
+look	O
+.	O
+
+Magnify	B-zoomIn
+the	O
+map	O
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+this	O
+area	O
+.	O
+
+Enlarge	B-zoomIn
+the	O
+display	O
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+to	O
+see	O
+better	O
+.	O
+
+Increase	B-zoomIn
+the	O
+zoom	O
+level	O
+.	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+of	O
+the	O
+map	O
+.	O
+
+Decrease	B-zoomOut
+the	O
+map	O
+magnification	O
+.	O
+
+Reduce	B-zoomOut
+the	O
+map	O
+view	O
+.	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+to	O
+see	O
+a	O
+larger	O
+area	O
+.	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+to	O
+get	O
+a	O
+wider	O
+perspective	O
+.	O
+
+Can	O
+you	O
+minimize	B-zoomOut
+the	O
+map	O
+?	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+to	O
+see	O
+more	O
+.	O
+
+Minimize	B-zoomOut
+the	O
+display	O
+.	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+for	O
+a	O
+broader	O
+view	O
+.	O
+
+Decrease	B-zoomOut
+the	O
+zoom	O
+level	O
+.	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+to	O
+get	O
+a	O
+full	O
+view	O
+.	O
+
+Reduce	B-zoomOut
+the	O
+zoom	O
+to	O
+see	O
+more	O
+area	O
+.	O
+
+Locate	B-goTo
+Mumbai	B-location
+on	O
+the	O
+map	O
+.	O
+
+Navigate	B-goTo
+to	O
+Bengaluru	B-location
+.	O
+
+Show	B-goTo
+New	B-location
+Delhi	I-location
+.	O
+
+Center	B-goTo
+the	O
+map	O
+on	O
+Kolkata	B-location
+.	O
+
+Move	B-goTo
+to	O
+Chennai	B-location
+.	O
+
+Find	B-goTo
+Hyderabad	B-location
+on	O
+the	O
+map	O
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+Jaipur	B-location
+.	O
+
+Show	B-goTo
+Ahmedabad	B-location
+on	O
+the	O
+map	O
+.	O
+
+Take	B-goTo
+me	O
+to	O
+Pune	B-location
+.	O
+
+Show	B-goTo
+the	O
+location	O
+of	O
+Lucknow	B-location
+.	O
+
+Find	B-goTo
+Indore	B-location
+on	O
+the	O
+map	O
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+Bhopal	B-location
+.	O
+
+Show	B-goTo
+Surat	B-location
+.	O
+
+Locate	B-goTo
+Nagpur	B-location
+.	O
+
+Find	B-goTo
+Patna	B-location
+.	O
+
+Show	B-goTo
+Varanasi	B-location
+on	O
+the	O
+map	O
+.	O
+
+Center	B-goTo
+the	O
+map	O
+on	O
+Goa	B-location
+.	O
+
+Move	B-goTo
+to	O
+Kochi	B-location
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+Amritsar	B-location
+.	O
+
+Show	B-goTo
+Bhubaneswar	B-location
+.	O
+
+Find	B-goTo
+Guwahati	B-location
+on	O
+the	O
+map	O
+.	O
+
+Locate	B-goTo
+Ranchi	B-location
+.	O
+
+Display	O
+the	O
+satellite	B-layer
+view	O
+.	O
+
+Show	O
+the	O
+terrain	B-layer
+layer	O
+.	O
+
+Add	O
+the	O
+population	B-layer
+density	I-layer
+layer	O
+.	O
+
+Show	O
+the	O
+LULC	B-layer
+map	O
+.	O
+
+Hide	B-negation
+the	O
+traffic	B-layer
+information	O
+.	O
+
+Display	O
+the	O
+weather	B-layer
+overlay	O
+.	O
+
+Turn	O
+on	O
+the	O
+street	B-layer
+map	I-layer
+layer	O
+.	O
+
+Remove	B-negation
+the	O
+vegetation	B-layer
+index	I-layer
+layer	O
+.	O
+
+Show	O
+the	O
+air	B-layer
+quality	I-layer
+layer	O
+.	O
+
+Add	O
+the	O
+rainfall	B-layer
+data	I-layer
+layer	O
+.	O
+
+Display	O
+the	O
+flood	B-layer
+risk	I-layer
+map	O
+.	O
+
+Show	O
+the	O
+land	B-layer
+use	I-layer
+layer	O
+.	O
+
+Activate	O
+the	O
+topographic	B-layer
+layer	O
+.	O
+
+Turn	O
+on	O
+the	O
+elevation	B-layer
+data	O
+.	O
+
+Enable	O
+the	O
+transport	B-layer
+routes	I-layer
+layer	O
+.	O
+
+Show	O
+the	O
+historical	B-layer
+sites	I-layer
+layer	O
+.	O
+
+Add	O
+the	O
+river	B-layer
+network	I-layer
+layer	O
+.	O
+
+Display	O
+the	O
+land	B-layer
+cover	I-layer
+data	O
+.	O
+
+Turn	O
+on	O
+the	O
+hydrological	B-layer
+layer	O
+.	O
+
+Remove	B-negation
+the	O
+agricultural	B-layer
+map	I-layer
+layer	O
+.	O
+
+Show	O
+the	O
+urban	B-layer
+growth	I-layer
+layer	O
+.	O
+
+Activate	O
+the	O
+water	B-layer
+bodies	I-layer
+layer	O
+.	O
+
+Go	B-goTo
+to	O
+the	O
+area	O
+near	O
+the	O
+Gateway	B-location
+of	I-location
+India	I-location
+.	O
+
+Show	B-goTo
+places	O
+around	O
+Cubbon	B-location
+Park	I-location
+.	O

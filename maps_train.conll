@@ -1,0 +1,267 @@
+Please	O
+pan O
+left    B-panLeft
+to	O
+see	O
+more	O
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+map	O
+to	O
+the	O
+left	B-panLeft
+?	O
+
+Shift	O
+the	O
+view	O
+leftwards	B-panLeft
+.	O
+
+Move	O
+the	O
+screen	O
+to	O
+the	O
+left	B-panLeft
+.	O
+
+Please	O
+pan O
+right	B-panRight
+to	O
+see	O
+more	O
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+map	O
+to	O
+the	O
+right	B-panRight
+?	O
+
+Shift	O
+the	O
+view	O
+rightwards	B-panRight
+.	O
+
+Move	O
+the	O
+screen	O
+to	O
+the	O
+right	B-panRight
+.	O
+
+Please	O
+pan O
+up	B-panUp
+to	O
+see	O
+more	O
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+map	O
+upwards	B-panUp
+?	O
+
+Shift	O
+the	O
+view	O
+upwards	B-panUp
+.	O
+
+Move	O
+the	O
+screen	O
+up	B-panUp
+.	O
+
+Please	O
+pan O
+down	B-panDown
+to	O
+see	O
+more	O
+.	O
+
+Can	O
+you	O
+move	O
+the	O
+map	O
+downwards	B-panDown
+?	O
+
+Shift	O
+the	O
+view	O
+downwards	B-panDown
+.	O
+
+Move	O
+the	O
+screen	O
+down	B-panDown
+.	O
+
+Please	O
+zoom	B-zoomIn
+in	I-zoomIn
+on	O
+the	O
+map	O
+.	O
+
+Can	O
+you	O
+magnify	B-zoomIn
+the	O
+view	O
+?	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+closer	O
+to	O
+the	O
+location	O
+.	O
+
+Enlarge	B-zoomIn
+the	O
+map	O
+view	O
+.	O
+
+Please	O
+zoom	B-zoomOut
+out	I-zoomOut
+on	O
+the	O
+map	O
+.	O
+
+Can	O
+you	O
+minimize	B-zoomOut
+the	O
+view	O
+?	O
+
+Zoom	B-zoomOut
+out	I-zoomOut
+to	O
+see	O
+a	O
+wider	O
+area	O
+.	O
+
+Reduce	B-zoomOut
+the	O
+map	O
+view	O
+.	O
+
+Show	O
+me	O
+the	O
+map	O
+of	O
+New	B-location
+York	I-location
+.	O
+
+Go	B-goTo
+to	O
+Los	B-location
+Angeles	I-location
+.	O
+
+Center	O
+the	O
+view	O
+around	B-goTo
+San	B-location
+Francisco	I-location
+.	O
+
+Move	O
+the	O
+map	O
+near	B-goTo
+Mumbai	B-location
+.	O
+
+Take	O
+me	O
+to	B-goTo
+Tokyo	B-location
+on	O
+the	O
+map	O
+.	O
+
+Navigate	B-goTo
+to	O
+the	O
+area	O
+around	O
+Paris	B-location
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+on	O
+London	B-location
+.	O
+
+Can	O
+you	O
+show	B-goTo
+the	O
+map	O
+of	O
+Sydney	B-location
+?	O
+
+Show	O
+the	O
+satellite	B-layer
+layer	O
+.	O
+
+Can	O
+you	O
+display	O
+the	O
+terrain	B-layer
+view	O
+?	O
+
+Add	O
+the	O
+population	B-layer
+density	O
+layer	O
+.	O
+
+Show	O
+the	O
+LULC	B-layer
+map	O
+.	O

@@ -1,0 +1,170 @@
+Navigate	B-goTo
+near	O
+Charminar	B-location
+.	O
+
+Move	B-goTo
+the	O
+map	O
+close	O
+to	O
+India	B-location
+Gate	I-location
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+around	O
+the	O
+Victoria	B-location
+Memorial	I-location
+.	O
+
+Find	B-goTo
+the	O
+location	O
+near	O
+Marine	B-location
+Drive	I-location
+.	O
+
+Move	B-goTo
+to	O
+the	O
+vicinity	O
+of	O
+Lalbagh	B-location
+Botanical	I-location
+Garden	I-location
+.	O
+
+Show	B-goTo
+the	O
+area	O
+around	O
+Hawa	B-location
+Mahal	I-location
+.	O
+
+Go	B-goTo
+to	O
+the	O
+region	O
+near	O
+Ramoji	B-location
+Film	I-location
+City	I-location
+.	O
+
+Navigate	B-goTo
+to	O
+the	O
+surroundings	O
+of	O
+Qutub	B-location
+Minar	I-location
+.	O
+
+Move	B-goTo
+the	O
+view	O
+to	O
+the	O
+neighborhood	O
+of	O
+Connaught	B-location
+Place	I-location
+.	O
+
+Show	B-goTo
+the	O
+map	O
+around	O
+Sabarmati	B-location
+Ashram	I-location
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+near	O
+the	O
+Red	B-location
+Fort	I-location
+.	O
+
+Locate	B-goTo
+the	O
+area	O
+around	O
+Hussain	B-location
+Sagar	I-location
+Lake	I-location
+.	O
+
+Show	B-goTo
+the	O
+vicinity	O
+of	O
+Howrah	B-location
+Bridge	I-location
+.	O
+
+Find	B-goTo
+places	O
+near	O
+Chhatrapati	B-location
+Shivaji	I-location
+Maharaj	I-location
+Terminus	I-location
+.	O
+
+Move	B-goTo
+to	O
+the	O
+area	O
+close	O
+to	O
+Nandi	B-location
+Hills	I-location
+.	O
+
+Show	B-goTo
+the	O
+surroundings	O
+of	O
+the	O
+Meenakshi	B-location
+Temple	I-location
+.	O
+
+Navigate	B-goTo
+near	O
+the	O
+Golden	B-location
+Temple	I-location
+.	O
+
+Zoom	B-zoomIn
+in	I-zoomIn
+around	O
+Dal	B-location
+Lake	I-location
+.	O
+
+Find	B-goTo
+the	O
+location	O
+close	O
+to	O
+Elephanta	B-location
+Caves	I-location
+.	O
+
+Move	B-goTo
+to	O
+the	O
+vicinity	O
+of	O
+Ajanta	B-location
+Caves	I-location
+.	O
