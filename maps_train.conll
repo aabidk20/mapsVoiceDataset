@@ -24,7 +24,7 @@ vegetation	B-layer
 index	O
 .	O
 
-Go	B-goTo
+Go	O
 to	O
 the	O
 area	O
@@ -35,7 +35,7 @@ Gate	I-location
 Bridge	I-location
 .	O
 
-Show	B-goTo
+Show	O
 me	O
 places	O
 around	O
@@ -43,7 +43,7 @@ Central	B-location
 Park	I-location
 .	O
 
-Navigate	B-goTo
+Navigate	O
 to	O
 the	O
 vicinity	O
@@ -55,7 +55,7 @@ Tower	I-location
 
 Can	O
 you	O
-move	B-goTo
+move	O
 the	O
 map	O
 to	O
@@ -73,7 +73,7 @@ the	O
 Colosseum	B-location
 .	O
 
-Find	B-goTo
+Find	O
 the	O
 location	O
 near	O
@@ -81,7 +81,7 @@ Buckingham	B-location
 Palace	I-location
 .	O
 
-Move	B-goTo
+Move	O
 the	O
 view	O
 to	O
@@ -97,7 +97,7 @@ House	I-location
 Show	O
 the	O
 map	O
-around	B-goTo
+around	O
 the	O
 Taj	B-location
 Mahal	I-location
@@ -594,36 +594,36 @@ more	O
 area	O
 .	O
 
-Locate	B-goTo
+Locate	O
 Mumbai	B-location
 on	O
 the	O
 map	O
 .	O
 
-Navigate	B-goTo
+Navigate	O
 to	O
 Bengaluru	B-location
 .	O
 
-Show	B-goTo
+Show	O
 New	B-location
 Delhi	I-location
 .	O
 
-Center	B-goTo
+Center	O
 the	O
 map	O
 on	O
 Kolkata	B-location
 .	O
 
-Move	B-goTo
+Move	O
 to	O
 Chennai	B-location
 .	O
 
-Find	B-goTo
+Find	O
 Hyderabad	B-location
 on	O
 the	O
@@ -636,27 +636,27 @@ on	O
 Jaipur	B-location
 .	O
 
-Show	B-goTo
+Show	O
 Ahmedabad	B-location
 on	O
 the	O
 map	O
 .	O
 
-Take	B-goTo
+Take	O
 me	O
 to	O
 Pune	B-location
 .	O
 
-Show	B-goTo
+Show	O
 the	O
 location	O
 of	O
 Lucknow	B-location
 .	O
 
-Find	B-goTo
+Find	O
 Indore	B-location
 on	O
 the	O
@@ -669,33 +669,33 @@ on	O
 Bhopal	B-location
 .	O
 
-Show	B-goTo
+Show	O
 Surat	B-location
 .	O
 
-Locate	B-goTo
+Locate	O
 Nagpur	B-location
 .	O
 
-Find	B-goTo
+Find	O
 Patna	B-location
 .	O
 
-Show	B-goTo
+Show	O
 Varanasi	B-location
 on	O
 the	O
 map	O
 .	O
 
-Center	B-goTo
+Center	O
 the	O
 map	O
 on	O
 Goa	B-location
 .	O
 
-Move	B-goTo
+Move	O
 to	O
 Kochi	B-location
 .	O
@@ -706,18 +706,18 @@ on	O
 Amritsar	B-location
 .	O
 
-Show	B-goTo
+Show	O
 Bhubaneswar	B-location
 .	O
 
-Find	B-goTo
+Find	O
 Guwahati	B-location
 on	O
 the	O
 map	O
 .	O
 
-Locate	B-goTo
+Locate	O
 Ranchi	B-location
 .	O
 
@@ -870,7 +870,7 @@ bodies	I-layer
 layer	O
 .	O
 
-Go	B-goTo
+Go	O
 to	O
 the	O
 area	O
@@ -881,7 +881,7 @@ of	I-location
 India	I-location
 .	O
 
-Show	B-goTo
+Show	O
 places	O
 around	O
 Cubbon	B-location
